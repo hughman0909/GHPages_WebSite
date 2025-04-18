@@ -1,5 +1,5 @@
 ---
-title: "自己紹介"
+title: "self-introduction"
 author: default
 permalink: /
 ---
@@ -14,8 +14,6 @@ permalink: /
 -ギターを弾くこと: 特にアコギを弾くのが好きです  
 
 -犬: 特に柴犬とフレンチブルドッグが好きです  
-
-![image]()
 
 ### 嫌いなもの
 -チーズ: 液体系のチーズは食べれるけど、固体系のチーズは無理です
